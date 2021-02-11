@@ -4,7 +4,7 @@ Creating local SoapApi and SoapConsume using C# windows form and .Net app
 
 C# windows formu ve .Net kullanarak yerel ağda SoapApi ve SoapConsume oluşturma
 
-Firs of all, you need to run webform. Then before running winform you need to right click references and click add servide reference as you see below photo.
+First of all, you need to run webform. Then before running winform you need to right click references and click add servide reference as you see below photo.
 
 İlk olarak, web formunu çalıştırmanız gerekir. Ardından winform'u çalıştırmadan önce, referansları sağ tıklamanız ve aşağıdaki fotoğrafta gördüğünüz gibi hizmet referansı ekle'yi tıklamanız gerekir.
 
